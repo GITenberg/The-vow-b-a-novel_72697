@@ -1,0 +1,45 @@
+_repo: The-vow-b-a-novel_72697
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rae, John
+    birthdate: 1882
+    deathdate: 1963
+    gutenberg_agent_id: '26297'
+    url: http://www.gutenberg.org/2009/agents/26297
+creator:
+  author:
+    agent_name: Trent, Paul
+    aliases:
+    - Platt, Edward
+    - Kaye, Wilmot
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '56779'
+    url: http://www.gutenberg.org/2009/agents/56779
+description: ''
+gutenberg_issued: '2024-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72697'
+language: en
+pgterms:marc904: https://archive.org/details/vownovel00treniala
+pgterms:marc905: 20200908033119trent
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: Bob Taylor, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Businessmen -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Congo (Democratic Republic) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The vow : $b a novel'
+url: http://www.gutenberg.org/ebooks/72697
